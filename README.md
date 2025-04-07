@@ -40,6 +40,10 @@ O objetivo deste dashboard é fornecer uma **visão gerencial** clara e objetiva
 
 ![Dashboard de Vendas](imagemPB/Dash.png)
 
+## Exemplo de filtro
+Quantidade de fones vendidos pela matriz
+![Dashboard de Vendas](imagemPB/FoneMatriz.png)
+
 ---
 
 
